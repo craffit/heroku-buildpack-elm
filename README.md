@@ -1,4 +1,4 @@
-# Heroku buildpack for Elm apps
+# Heroku buildpack to get the elm binaries
 
 Check out the example app [elm-todomvc](https://github.com/srid/elm-todomvc). In brief:
 
